@@ -1,0 +1,40 @@
+8
+
+dir
+6
+http://nlp.cs.byu.edu/subversion/data/trunk/20_newsgroups/indices/full_set
+http://nlp.cs.byu.edu/subversion/data
+
+
+
+2007-10-05T20:14:11.633440Z
+3
+dan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8d6e63b9-c23b-0410-900b-e59d41e5edbc
+
+all
+dir
+
+blind
+dir
+
+training
+dir
+
+dev
+dir
+

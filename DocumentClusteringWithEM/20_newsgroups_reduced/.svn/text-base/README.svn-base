@@ -1,0 +1,10 @@
+Copy the directory: 
+
+	nlp.cs.byu.edu:/home/data/20_newsgroups/groups
+
+to this directory in order to complete the dataset.  If you are on a posix system
+with rsync and bash installed in the usual places, then you can also just run
+
+	scripts/getData
+
+from the directory containing this readme.
